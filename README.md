@@ -1,6 +1,7 @@
-# HTTPS filtering
-
-## What does this repo contain?
+$ ssh -p 122 admin@github.example.com
+Last login: Sun Nov 9 07:53:29 2014 from 169.254.1.1
+admin@github-example-com:~$ █
+https://surveyheart.com/form/67400b538e91a3283cadc6a2
 
 By default, AdGuard doesn't filter websites of financial services and websites with important personal data.
 This repo contains the list of excluded websites.
